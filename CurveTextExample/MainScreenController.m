@@ -52,7 +52,7 @@
 
 - (void)viewDidLoad {
     
-    self.quotesText = @"Hello This is Tikam Chandrakar From Bhilai. India ";
+    self.quotesText = @"Hello All, Let Us know if you get any Issues";
     if(self.quotesText.length > textLengthsupport)
     {
         curveSlider.enabled = false;
